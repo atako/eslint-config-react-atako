@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/atako/eslint-config-react-atako#readme",
   "peerDependencies": {
-    "babel-eslint": "^10.0.3",
+    "babel-eslint": "10.0.3",
     "eslint": "^6.5.1",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.4.0",
@@ -31,7 +31,7 @@
     "prettier": "^1.18.2"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.3",
+    "babel-eslint": "10.0.3",
     "eslint": "^6.5.1",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.4.0",
