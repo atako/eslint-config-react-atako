@@ -23,10 +23,7 @@ module.exports = {
       "react-hooks"
   ],
   "rules": {
-      "arrow-body-style": [
-          "error",
-          "always"
-      ],
+      "arrow-body-style": 0,
       "comma-dangle": 0,
       "consistent-return": 0,
       "func-names": 0,
